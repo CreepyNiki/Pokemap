@@ -6,7 +6,6 @@ const Home = () => {
 
   return (
     <div className="home-container">
-      <h1></h1>
       <div>
         <img src="assets/Pokemap_blank_cut_out.png" alt="Pokemap" />
       </div>
